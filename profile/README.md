@@ -4,9 +4,13 @@
 > 
 > 또한 대량의 데이터를 집계하고 **비동기적으로 Excel 파일을 다운로드** 할 수 있도록 기능을 개선한다.
 
+<br>
+
 ## 2. 프로젝트 위키
 
 ### [Wiki](https://github.com/G-GCELL/.github/wiki)
+
+<br>
 
 
 ## 3. 팀 소개
@@ -17,9 +21,13 @@
 | :-------------------------------------------------------: | :-------------------------------------------------------: | :-------------------------------------------------------: | :-------------------------------------------------------: |
 | ![](https://github.com/muyongKim.png) | ![](https://github.com/AnTaeWook.png) | ![](https://github.com/tommysgit.png) | ![](https://github.com/TaeYeongKwak.png) |
 
+<br>
+
 ## 4. 인프라 구조
 
 ![image](https://user-images.githubusercontent.com/84563221/228426804-2269d4b2-9e82-446d-ad91-4064f19a84f8.png)
+
+<br>
 
 ## 5. 성능
 
@@ -35,6 +43,7 @@
 **사용자 수에 따른 동시처리 시간**
 ![image](https://user-images.githubusercontent.com/84563221/228427798-f77b0b3a-ecfd-4f2b-b7c3-1c96a80a791a.png)
 
+<br>
 
 ## 6. 팀 발표자료
 
