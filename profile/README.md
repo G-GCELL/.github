@@ -45,6 +45,37 @@
 
 <br>
 
-## 6. 팀 발표자료
+## 6. 실행 화면
+### 로그인
+<p align="center">
+<img src="https://user-images.githubusercontent.com/75138553/228414219-9fbfc7e9-2eea-4fda-ab7b-4d7e097e4ffc.gif" width="70%" height="70%"/>
+</p>
+
+### 파일 생성
+<p align="center">
+<img src="https://user-images.githubusercontent.com/75138553/228414281-ca726f34-4547-41ed-af59-c6e758cdfa54.gif" width="70%" height="70%"/>
+</p>
+
+### 파일 다운로드
+<p align="center">
+<img src="https://user-images.githubusercontent.com/75138553/228414591-e8e8ecb2-95d4-4728-9a2a-811603fed83f.gif" width="70%" height="70%"/>
+</p>
+
+### 파일 검색
+<p align="center">
+<img src="https://user-images.githubusercontent.com/75138553/228414644-aedef29d-a2a7-4f8d-b56c-13080a275697.gif" width="70%" height="70%"/>
+</p>
+
+### 그라파나 로그
+<p align="center">
+<img src="https://user-images.githubusercontent.com/75138553/228414683-b70331e2-a209-49c1-be5d-9f83d731f6d5.gif" height="70%"/>
+</p>
+
+### 그라파나 리소스
+<p align="center">
+<img src="https://user-images.githubusercontent.com/75138553/228413349-990a1945-13ec-46e3-a0e4-f4d32ada2f13.gif" width="70%" height="70%"/>
+</p>
+
+## 7. 팀 발표자료
 
 ### [발표자료](https://docs.google.com/presentation/d/1RNvcWxrBe9mEFnWo938UIrlWmckKsxdR9PflNaSEifE/edit?usp=sharing)
